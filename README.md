@@ -3,6 +3,16 @@ Hosting for Keyman development test resources
 
 ## Test resources
 
+### For Gesture-testing
+
+[gesture_prototyping.kmp](gesture_prototyping.kmp)
+
+[ye_old_ten_key.kmp](ye_old_ten_key.kmp)
+
+[diacritic_rota.kmp](diacritic_rota.kmp)
+
+### Other
+
 [test.kmp](test.kmp)
 
 [ios_nul_test.kmp](ios_nul_test.kmp)

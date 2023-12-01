@@ -21,4 +21,4 @@ Hosting for Keyman development test resources
 
 [default_subkey.kmp](default_subkey.kmp)
 
-[khmer_angkor (edited with v0.1, actually v1.3)](khmer_angkor.kmp)
+[khmer_angkor.kmp](khmer_angkor.kmp) (edited with v0.1, actually v1.3)

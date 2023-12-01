@@ -20,3 +20,5 @@ Hosting for Keyman development test resources
 [Edited Balochi dictionary](sil.bcc-arab.upp_ptwl1.model.kmp)
 
 [default_subkey.kmp](default_subkey.kmp)
+
+[khmer_angkor (edited with v0.1, actually v1.3)](khmer_angkor.kmp)

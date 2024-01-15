@@ -5,6 +5,12 @@ Hosting for Keyman development test resources
 
 ### For Gesture-testing
 
+[sil_euro_latin.kmp](sil_euro_latin.kmp)
+
+[sil_ipa](sil_ipa.kmp)
+
+#### From early prototyping
+
 [gesture_prototyping.kmp](gesture_prototyping.kmp)
 
 [ye_old_ten_key.kmp](ye_old_ten_key.kmp)

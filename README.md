@@ -7,7 +7,7 @@ Hosting for Keyman development test resources
 
 [sil_euro_latin.kmp](sil_euro_latin.kmp)
 
-[sil_ipa](sil_ipa.kmp)
+[sil_ipa.kmp](sil_ipa.kmp)
 
 #### From early prototyping
 

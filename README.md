@@ -19,6 +19,8 @@ Hosting for Keyman development test resources
 
 ### Other
 
+[test_robust_deletions.kmp](test_robust_deletions.kmp)
+
 [test.kmp](test.kmp)
 
 [ios_nul_test.kmp](ios_nul_test.kmp)

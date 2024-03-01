@@ -19,6 +19,8 @@ Hosting for Keyman development test resources
 
 ### Other
 
+[last_alphanumeric_rotater.kmp](last_alphanumeric_rotater.kmp)
+
 [test_robust_deletions.kmp](test_robust_deletions.kmp)
 
 [test.kmp](test.kmp)

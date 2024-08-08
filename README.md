@@ -3,6 +3,10 @@ Hosting for Keyman development test resources
 
 ## Test resources
 
+### For the new Trie format
+
+[nrc.en.mtnt.model.kmp](nrc.en.mtnt.model.kmp)
+
 ### For Gesture-testing
 
 [sil_euro_latin.kmp](sil_euro_latin.kmp)

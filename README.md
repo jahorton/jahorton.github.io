@@ -37,4 +37,4 @@ Hosting for Keyman development test resources
 
 [khmer_angkor.kmp](khmer_angkor.kmp) (edited with v0.1, actually v1.3)
 
-[soninke_n_ti.kmp](soninka_n_ti.kmp)
+[soninke_n_ti.kmp](soninke_n_ti.kmp)

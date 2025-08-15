@@ -13,6 +13,8 @@ Hosting for Keyman development test resources
 
 [sil_ipa.kmp](sil_ipa.kmp)
 
+[english_punct_rota.kmp](english_punct_rota.kmp)
+
 #### From early prototyping
 
 [gesture_prototyping.kmp](gesture_prototyping.kmp)
